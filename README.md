@@ -1,5 +1,6 @@
 # Cyclic check
 
+Test results:
 ```
    Fold|  All|   Checked|  %
       1|   15|        15|100.00
